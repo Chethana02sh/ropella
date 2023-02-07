@@ -1,0 +1,4 @@
+url https://ropella-dev.ballistixcrm.com
+username admin
+password phA0ra8tenEtrOH8
+browser chrome
